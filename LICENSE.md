@@ -1,4 +1,4 @@
-# 
+# Élite Bitwarden extensions pour Mac OS | Officiel Bitwarden extensions pour PC Windows. Avec suivi de géolocalisation et support du torrenting — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
